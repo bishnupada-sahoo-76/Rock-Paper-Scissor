@@ -5,6 +5,6 @@ I used Java to create this project.
 
 # Technology Used
 - Java
+- Conditional Statement
 ---
 
-This site is live at https://bishnupada-sahoo-76.github.io/Rock-Paper-Scissor/
