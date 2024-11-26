@@ -7,4 +7,4 @@ I used Java to create this project.
 - Java
 ---
 
-Hosted the website on 
+This site is live at https://bishnupada-sahoo-76.github.io/Rock-Paper-Scissor/
