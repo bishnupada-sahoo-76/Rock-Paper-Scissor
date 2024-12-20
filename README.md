@@ -1,5 +1,5 @@
 # Rock-Paper-Scissor
-Build a full functional Rock-paper-scissor game. I used Java to create this project.
+- Build a full functional Rock-paper-scissor game. I used Java to create this project.
   
 
 
